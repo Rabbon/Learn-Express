@@ -1,5 +1,5 @@
 # Learn-Express
-For a backend and API / translate
+translate
 
 ## Basic Routing
 **Routing** คือการกำหนดว่าจะให้ response อะไรตอบกลับ เมื่อมี request เข้ามาที่ server
