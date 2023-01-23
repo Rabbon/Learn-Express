@@ -1,5 +1,4 @@
-# Learn-Express
-translate
+# Markdown notes about express.js
 
 ## Basic Routing
 **Routing** คือการกำหนดว่าจะให้ response อะไรตอบกลับ เมื่อมี request เข้ามาที่ server
