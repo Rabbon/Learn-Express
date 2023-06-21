@@ -17,7 +17,7 @@
  </tr>
  <tr>
   <td>01418234-65</td>
-  <td>IOT</td>
+  <td style="color:orange">IOT</td>
   <td>200</td>
   <td>2</td>
   <td>20</td>
